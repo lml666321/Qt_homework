@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "C:/Users/lml/Documents/GitHub/Qt_homework/build-JiaYing_alwaysRight-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/JiaYing_alwaysRight_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/lml/Documents/GitHub/Qt_homework/build-JiaYing_alwaysRight-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/lml/Documents/GitHub/Qt_homework/build-JiaYing_alwaysRight-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/lml/Documents/GitHub/Qt_homework/JiaYing_alwaysRight",
+	"CMAKE_SOURCE_DIR" : "C:/Users/lml/Documents/GitHub/Qt_homework/JiaYing_alwaysRight",
+	"INCLUDE_DIR" : "C:/Users/lml/Documents/GitHub/Qt_homework/build-JiaYing_alwaysRight-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/JiaYing_alwaysRight_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/lml/Documents/GitHub/Qt_homework/JiaYing_alwaysRight/res/qygh.png",
+		"C:/Users/lml/Documents/GitHub/Qt_homework/JiaYing_alwaysRight/res/bk.png"
+	],
+	"LOCK_FILE" : "C:/Users/lml/Documents/GitHub/Qt_homework/build-JiaYing_alwaysRight-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/JiaYing_alwaysRight_autogen.dir/AutoRcc_qygh_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qygh" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qygh.cpp",
+	"RCC_EXECUTABLE" : "D:/QT/6.5.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/lml/Documents/GitHub/Qt_homework/build-JiaYing_alwaysRight-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/JiaYing_alwaysRight_autogen.dir/AutoRcc_qygh_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/lml/Documents/GitHub/Qt_homework/JiaYing_alwaysRight/qygh.qrc",
+	"VERBOSITY" : 0
+}
