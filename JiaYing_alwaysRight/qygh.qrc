@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>res/qygh.png</file>
+        <file>res/bk.png</file>
+    </qresource>
+</RCC>
